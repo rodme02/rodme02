@@ -59,10 +59,3 @@
   </a>
   https://www.leetcode.com/rodme
 </p>
-
-<p align="left">
-  <a href="mailto:rodrigomedeiros2002@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  rodrigomedeiros2002@gmail.com
-</p>
