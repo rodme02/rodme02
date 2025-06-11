@@ -88,19 +88,19 @@
   <a href="https://linkedin.com/in/rodrigo-medeiros-6b4459187" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/rodrigo-medeiros-6b4459187" target="_blank">LinkedIn</a>
+  https://linkedin.com/in/rodrigo-medeiros-6b4459187
 </p>
 
 <p align="left">
   <a href="https://www.leetcode.com/rodme" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/rodme" target="_blank">LeetCode</a>
+  https://www.leetcode.com/rodme
 </p>
 
 <p align="left">
   <a href="mailto:rodrigomedeiros2002@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:rodrigomedeiros2002@gmail.com">Email</a>
+  rodrigomedeiros2002@gmail.com
 </p>
