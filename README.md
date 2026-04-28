@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 Computer Engineering student at <strong>Insper</strong> <br><br>
-🤝 Always open to collaboration and new opportunities!
 </p>
 
 <p align="center">
